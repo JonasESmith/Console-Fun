@@ -1,0 +1,4 @@
+F:\Projects\Coloring\SnakeAI\obj\Debug\SnakeAI.csprojAssemblyReference.cache
+F:\Projects\Coloring\SnakeAI\obj\Debug\SnakeAI.csproj.CoreCompileInputs.cache
+F:\Projects\Console-Snake\SnakeAI\obj\Debug\SnakeAI.csprojAssemblyReference.cache
+F:\Projects\Console-Snake\SnakeAI\obj\Debug\SnakeAI.csproj.CoreCompileInputs.cache
