@@ -4,4 +4,4 @@
 <h2> Growth </h2>
 	<img src="images/growth.PNG" alt="icon">
 <h2> Wave </h2>
-	<img src="images/Wave.PNG" alt="icon">
+	<img src="images/wave.PNG" alt="icon">
