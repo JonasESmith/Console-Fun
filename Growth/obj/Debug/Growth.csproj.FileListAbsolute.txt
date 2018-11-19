@@ -21,3 +21,12 @@ F:\Projects\Coloring\Growth\obj\Debug\Growth.csproj.CoreCompileInputs.cache
 F:\Projects\Coloring\Growth\obj\Debug\Growth.csproj.CopyComplete
 F:\Projects\Coloring\Growth\obj\Debug\Growth.exe
 F:\Projects\Coloring\Growth\obj\Debug\Growth.pdb
+F:\Projects\Console-Snake\Growth\bin\Debug\Growth.exe.config
+F:\Projects\Console-Snake\Growth\bin\Debug\Growth.exe
+F:\Projects\Console-Snake\Growth\bin\Debug\Growth.pdb
+F:\Projects\Console-Snake\Growth\bin\Debug\Colorful.Console.dll
+F:\Projects\Console-Snake\Growth\obj\Debug\Growth.csprojAssemblyReference.cache
+F:\Projects\Console-Snake\Growth\obj\Debug\Growth.csproj.CoreCompileInputs.cache
+F:\Projects\Console-Snake\Growth\obj\Debug\Growth.csproj.CopyComplete
+F:\Projects\Console-Snake\Growth\obj\Debug\Growth.exe
+F:\Projects\Console-Snake\Growth\obj\Debug\Growth.pdb
